@@ -1,4 +1,4 @@
-import Card from "@/components/Card";
+import Card from "@/alx-project-0x00/components/Card";
 const Landing: React.FC =  () => {
     return (
       <div>
